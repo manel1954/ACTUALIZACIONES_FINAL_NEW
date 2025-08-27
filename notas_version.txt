@@ -1,4 +1,4 @@
-Modificaciobes:
-- Se ha cambiado la ruta de actualizar IDS
-- Se ha dado mas al tura a la consola YSF
-- Se han añadido Reflectores YSF
+Modificaciones:
+- Cambiada la ruta de donde se actualizaban las IDS
+- Se ha dado mas altura a la consola YSF
+- Aañadido nuevos Reflectores YSF
