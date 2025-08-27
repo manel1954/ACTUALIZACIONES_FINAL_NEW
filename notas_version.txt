@@ -1,4 +1,5 @@
-Modificaciones:
-- Cambiada la ruta de donde se actualizaban las IDS
-- Se ha dado mas altura a la consola YSF
-- Añadido nuevos Reflectores YSF
+  Modificaciones:
+  MUY IMPORTANTE ACTUALIZAR AHORA!!
+  Es necesario actualizar la primera vez
+  para activar todas las funcionalidades
+  necesarias para el uso de esta imagen
