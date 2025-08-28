@@ -1,5 +1,2 @@
   Modificaciones:
-  MUY IMPORTANTE ACTUALIZAR AHORA!!
-  Es necesario actualizar la primera vez
-  para activar todas las funcionalidades
-  necesarias para el uso de esta imagen
+  
