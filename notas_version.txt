@@ -1,3 +1,3 @@
-Modificado el editor YSF2DMR  
-Modificaciones en Los Editores:
-BM, DMRPLUS, ESPECIAL, RADIO, FUSION y DSTAR
+Cambios en Actualizar REFLECTORES YSF
+La sala ES-ANDALUCIA tenía la ip antigua
+Con esta actualización se pone la buena
