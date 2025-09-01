@@ -1,4 +1,4 @@
-  Notas de actualizaciones:
+   Notas de actualizaciones:
 
   31-08-25 Agregado botón esconder Password en los editortes
   30-08-25 Cambios en el Editor svxlink
