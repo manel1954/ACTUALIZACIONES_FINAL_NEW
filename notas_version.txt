@@ -1,5 +1,7 @@
 Notas de actualizaciones:
 
+02-09-25 Cambios en el editor YSF2DMR.
+
 31-08-25 Agregado botón esconder Password en los editortes.
 
 30-08-25 Cambios en el Editor svxlink.
