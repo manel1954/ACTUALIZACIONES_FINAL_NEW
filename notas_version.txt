@@ -2,3 +2,4 @@ Cambios en Actualizar REFLECTORES YSF
 La sala ES-ANDALUCIA tenía la ip antigua
 Con esta actualización se pone la buena
 Cambios en el Editor svxlink
+Boton esconder Password en los editortes
