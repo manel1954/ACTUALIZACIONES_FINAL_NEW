@@ -1,8 +1,12 @@
 Notas de actualizaciones:
 
-31-08-25 Agregado botón esconder Password en los editortes
-30-08-25 Cambios en el Editor svxlink
-29-08-25 La sala ES-ANDALUCIA tenía la ip antigua.
-           Se ha puesto la buena
-28-08-25 Cambios en Actualizar REFLECTORES YSF
-27-08-25 Fecha de la imagen actualizada
+31-08-25 Agregado botón esconder Password en los editortes.
+
+30-08-25 Cambios en el Editor svxlink.
+
+29-08-25 La sala ES-ANDALUCIA tenía la ip antigua
+se ha puesto la buena.
+
+28-08-25 Cambios en Actualizar REFLECTORES YSF.
+
+27-08-25 Fecha de la imagen actualizada.
