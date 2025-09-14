@@ -1,5 +1,7 @@
 Notas de las actualizaciones:
 
+14-09-25 Arreglos menores
+
 02-09-25 Cambios en el editor YSF2DMR.
 
 31-08-25 Añadido botones mostrar ocultar Password en todos los editortes.
