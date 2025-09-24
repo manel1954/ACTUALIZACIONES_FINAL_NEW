@@ -1,6 +1,6 @@
 Notas de las actualizaciones:
 
-17-09-25 Arreglos menores
+24-09-25 Arreglos menores
 
 02-09-25 Cambios en el editor YSF2DMR.
 
