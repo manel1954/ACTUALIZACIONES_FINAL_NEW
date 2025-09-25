@@ -1,6 +1,6 @@
 Notas de las actualizaciones:
 
-24-09-25 Arreglos menores
+25-09-25 Nuevos reflectores YSF
 
 02-09-25 Cambios en el editor YSF2DMR.
 
