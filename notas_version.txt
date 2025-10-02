@@ -1,6 +1,6 @@
 Notas de las actualizaciones:
 
-02-10-2025 Añadido BRANDMEISTER y DMR+ al Editor Especcial
+03-10-2025 Añadido BRANDMEISTER y DMR+ al Editor Especcial
 
 01-10-2025 Nuevo Editor Especcial con Memorias
 
